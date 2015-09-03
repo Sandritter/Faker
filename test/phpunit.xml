@@ -6,7 +6,7 @@
 >
     <testsuites>
         <testsuite name="Faker Test Suite">
-            <directory>./test/Faker/</directory>
+            <directory>./Faker/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
